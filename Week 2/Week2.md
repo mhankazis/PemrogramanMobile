@@ -7,6 +7,7 @@ Soal 2
 6.  Banyak fitur Flutter, seperti widget dan manajemen state, sangat terkait dengan cara kerja Dart.
 
 Soal 3
+
 Dart adalah bahasa pemrograman yang dikembangkan oleh Google, digunakan untuk membangun aplikasi web, server, dan mobile (terutama dengan Flutter).
 Fitur Utama:
 1.	Statically Typed: Memastikan tipe data ditentukan pada waktu kompilasi.
