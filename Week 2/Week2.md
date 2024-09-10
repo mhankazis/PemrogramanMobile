@@ -5,6 +5,7 @@ Soal 2
 4.  Dart adalah bahasa yang aman tipe, yang membantu mendeteksi kesalahan pada waktu compile.
 5.  Memahami cara kerja Dart dapat membantu dalam mengoptimalkan aplikasi Flutter, seperti pengelolaan memori dan pemrosesan yang efisien.
 6.  Banyak fitur Flutter, seperti widget dan manajemen state, sangat terkait dengan cara kerja Dart.
+
 Soal 3
 Dart adalah bahasa pemrograman yang dikembangkan oleh Google, digunakan untuk membangun aplikasi web, server, dan mobile (terutama dengan Flutter).
 Fitur Utama:
