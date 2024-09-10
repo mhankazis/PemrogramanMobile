@@ -1,10 +1,10 @@
 Soal 2
-•	Dart adalah bahasa pemrograman yang digunakan untuk mengembangkan aplikasi Flutter.
-•	Dart memiliki sintaks yang relatif sederhana.
-•	Dart mendukung pemrograman asinkron dengan menggunakan async dan await.
-•	Dart adalah bahasa yang aman tipe, yang membantu mendeteksi kesalahan pada waktu compile.
-•	Memahami cara kerja Dart dapat membantu dalam mengoptimalkan aplikasi Flutter, seperti pengelolaan memori dan pemrosesan yang efisien.
-•	Banyak fitur Flutter, seperti widget dan manajemen state, sangat terkait dengan cara kerja Dart.
+1.  Dart adalah bahasa pemrograman yang digunakan untuk mengembangkan aplikasi Flutter.
+2.  Dart memiliki sintaks yang relatif sederhana.
+3.  Dart mendukung pemrograman asinkron dengan menggunakan async dan await.
+4.  Dart adalah bahasa yang aman tipe, yang membantu mendeteksi kesalahan pada waktu compile.
+5.  Memahami cara kerja Dart dapat membantu dalam mengoptimalkan aplikasi Flutter, seperti pengelolaan memori dan pemrosesan yang efisien.
+6.  Banyak fitur Flutter, seperti widget dan manajemen state, sangat terkait dengan cara kerja Dart.
 Soal 3
 Dart adalah bahasa pemrograman yang dikembangkan oleh Google, digunakan untuk membangun aplikasi web, server, dan mobile (terutama dengan Flutter).
 Fitur Utama:
